@@ -1,0 +1,11 @@
+*.sln
+*.vcxproj*
+comand.txt
+field.txt
+Debug
+x64
+.vs
+*.cbp
+*.depend
+*.layout
+
